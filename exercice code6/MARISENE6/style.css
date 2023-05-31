@@ -1,0 +1,69 @@
+h1 {
+    text-align: center;
+}
+p {
+    color: rgb(50, 168, 50);
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+table{
+    border-collapse: collapse;
+    border-width: 2px;
+}
+td {
+    border-width: 2px;
+}
+.jour {
+    background-color: rgb(216, 15, 15);
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.voalohany {
+    background-color: rgb(216, 15, 15);
+    color: white;
+}
+.faharoa {
+    background-color: rgb(216, 15, 15);
+    color: white;
+}
+.fahatelo {
+    background-color: rgb(216, 15, 15);
+    color: white;
+}
+.fahaefatra {
+    background-color: rgb(216, 15, 15);
+    color: white;
+}
+.tab {
+    background-color: white;
+}
+.lisitra h1 {
+  color: rgb(9, 143, 177);  
+  text-decoration: underline;
+}
+hr {
+    margin-right: 75%;
+    font-size: 30px;
+    color: rgb(9, 143, 177); 
+}
+.rouge {
+    color: red;
+}
+.vert{
+    color: green;
+}
+.bleu{
+    color: rgb(8, 70, 112);
+}
+.noir {
+    color: black;
+}
+.marron {
+    color: rgb(83, 38, 5);
+}
+.farany{
+    color: rgb(218, 129, 12);  
+}

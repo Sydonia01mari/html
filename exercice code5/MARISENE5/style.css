@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(247, 247, 247);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+.partie1 {
+    width: 40%;
+    margin-top: 15%;
+    margin-right: 5%;
+}
+.partie1 h1 {
+    color: rgb(5, 76, 168);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 350%;
+    margin: 0;
+    padding: 0;
+}
+.partie1 p {
+    text-align: start;
+    font-size: 180%;
+    margin: 0;;
+    padding: 0;
+}
+.partie2 {
+    width: 30%;
+    margin-right: 70px;
+    margin-top: 10%;
+    border-radius: 10px;
+
+}
+.partie2 input {
+    width: 90%;
+    height: 5vh;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 3%;
+    border-radius: 10px;
+    font-size: 20px;
+    padding-left: 2vh;
+    border-width: 1px;
+    border-color: rgba(105, 105, 105, 0.329);
+}
+.partie2 button {
+color: white;
+background-color: rgb(5, 76, 168);
+width: 96%;
+height: 6vh;
+margin: 2vh 0;
+border-radius: 10px;
+font-weight: bold;
+font-size: 100%;
+}  
+form p {
+    color: blue;
+}  
+.teboka button {
+    font-weight: bold;
+    background-color: forestgreen;
+    margin: 2vh 0;
+    width: 50%;
+    height: 6vh;
+} 
+hr {
+width: 70%;
+} 
+.teny p {
+    color: black;
+} 
+.formulaire{
+    background-color: white;
+    padding: 3vh 0;
+    border-radius: 15px;
+} 

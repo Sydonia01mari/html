@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(papel-de-parede-adesivo-degrade-verde-e-azul-escuro-n05138-764702_grande.webp);
+    background-size: cover;
+}
+header {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+}
+.titre {
+    width: 100%;
+    height: 4vh;
+    margin: 0px;
+    padding: 0 24px;
+} 
+.menu {
+    width: 100%;
+    height: 5vh;
+    margin: 0px ;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+.login {
+    width: 100%;
+    height: 4vh;
+    margin:  0px;
+    padding:  1vh ;
+    display: flex;
+    justify-content: center;
+}
+.titre h2 {
+    color: rgb(13, 13, 14);
+}
+.menu p {
+    margin: 2vh 3vh;
+    color:rgb(13, 13, 14) ;
+}
+.login p {
+    margin: 3vh 5vh;
+    color: rgb(13, 13, 14);
+}
+.login button {
+    margin: 3vh 5vh;
+    margin-top: 1vh;
+    color: rgb(13, 13, 14);
+    justify-content: left;
+    border-radius: 10px;
+    height: 50px;
+}
+.cadre {
+    display: flex;
+    margin: 0 2vh;
+} 
+
+.voalohany {
+    width: 40%;
+    padding-left: 10vh;
+    padding-top: 10vh;
+}
+.faharoa {
+    height: 80vh;
+    width: 50%;
+}
+.formation h2 {
+    color: blue;
+    text-align: left;
+}
+.formation h1 {
+    color: aliceblue;
+    font-size: 60px;
+}
+.formation p {
+    color: aliceblue;
+}
+.carre {
+    display: flex;
+} 
+button {
+    background-color: rgb(189, 151, 184);
+    width: 20%;
+    height: 8vh;
+    margin: 0 3vh;
+    border-radius: 10px;
+}
+img {
+    margin-top: 10vh;
+    width: 100%;
+}
